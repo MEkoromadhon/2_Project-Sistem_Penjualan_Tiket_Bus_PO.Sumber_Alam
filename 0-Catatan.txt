@@ -1,0 +1,7 @@
+Nama : Muhammad Eko Romadhon
+NIM   : 18416255201005
+Email : mekoromad17@gmail.com
+
+Project Akhir Semester 3 (Kuliah) :
+Project ke-2  = Pemrograman Berorientasi Objek (Java Netbeans)
+Judul Project = Sistem Penjualan Tiket Bus PO. Sumber Alam
